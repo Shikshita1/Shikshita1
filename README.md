@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shikshita Bhandari.
-- 👀 I’m interested in coding in environmental science.
-- 🌱 I’m currently pursuing MS in Environmental Engineering.
+- 🌱 I’m currently pursuing PhD in Earth System Science.
 - 💞️ I’m looking to collaborate on any project related to environmental data and models (Water resources, Climate, Atmosphere etc).
 - 📫 How to reach me https://www.linkedin.com/in/shikshita-b-a85347a2/
 
